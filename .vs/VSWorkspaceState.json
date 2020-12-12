@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\img-post"
+    "\\img-post",
+    "\\_includes",
+    "\\_layouts"
   ],
   "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
