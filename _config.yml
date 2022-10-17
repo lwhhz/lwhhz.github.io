@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-LWH.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 github_username:      lwhhz
